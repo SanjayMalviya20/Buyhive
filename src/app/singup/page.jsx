@@ -89,7 +89,7 @@ const page = () => {
             <button type="submit" className=' rounded-md text-sm pl-3 pr-3 text-white bg-black  hover:bg-blue-800 btn p-1'>singup</button>
             <h1 className='text-xl text-black'>or</h1>
             <Link href={"/login"}>
-              <a className='rounded-md text-xl text-black underline '>Signin</a>
+              <h1 className='rounded-md text-xl text-black underline '>Signin</h1>
             </Link>
           </div>
         </form>

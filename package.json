@@ -22,7 +22,8 @@
     "react-dom": "^19.0.0",
     "react-pick-color": "^2.0.0",
     "react-rating-stars-component": "^2.2.0",
-    "react-star-ratings": "^2.3.0"
+    "react-star-ratings": "^2.3.0",
+    "stripe": "^17.6.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
