@@ -1,5 +1,4 @@
 "use client"
-import img from "../../public/eximg.png"
 import { useEffect, useState } from "react";
 import Catloader from "./Catloader";
 import Image from "next/image";

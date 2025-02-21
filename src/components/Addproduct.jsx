@@ -199,7 +199,7 @@ const Addproduct = () => {
               }
 
               onSuccess={handleSuccess}
-              uploadPreset="sanjay">
+              uploadPreset={process.env.NEXT_PUBLIC_UPLOAD_PRESET}>
               {({ open }) => {
                 return (
                   <button className=' btn btn-dark' onClick={() => open()}>
