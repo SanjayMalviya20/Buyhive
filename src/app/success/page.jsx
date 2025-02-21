@@ -12,8 +12,8 @@ const PaymentSuccess = () => {
       <p>
         Order Details:
         <ul>
-          {/* <li>Order ID: {localStorage.getItem('orderId')}</li> */}
-          {/* <li>Amount: {localStorage.getItem('amount')}</li> */}
+          <li>Order ID: {localStorage?.getItem('orderId')}</li>
+          <li>Amount: {localStorage?.getItem('amount')}</li>
         </ul>
       </p>
       <Link href="/">Return to Home</Link>
