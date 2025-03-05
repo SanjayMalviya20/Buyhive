@@ -13,7 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
-##put .env files ---->
+put .env files ---->
+```base
 AUTH_GOOGLE_ID  ,
 AUTH_GOOGLE_SECRET ,
 AUTH_SECRET ,
@@ -22,6 +23,7 @@ NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME ,
 NEXT_PUBLIC_UPLOAD_PRESET ,
 STRIPE_PUBLISHABLE_KEY ,
 STRIPE_SECRET_KEY ,
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
