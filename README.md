@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-put .env files ---->
+##put .env files ---->
 AUTH_GOOGLE_ID  ,
 AUTH_GOOGLE_SECRET ,
 AUTH_SECRET ,
