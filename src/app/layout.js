@@ -19,7 +19,6 @@ export default function RootLayout({ children, pageProps }) {
       <body className={edu.variable}>
 
         <Provider>
-        
           {children}
         </Provider>
 
